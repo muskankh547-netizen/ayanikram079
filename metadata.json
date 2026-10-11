@@ -1,0 +1,12 @@
+{
+  "name": "Mirror AI — My Personal AI Assistant",
+  "description": "Futuristic personal voice assistant for Android with dual-language English & Urdu support, mobile system controls, smart home lights, and mobile build instructions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
